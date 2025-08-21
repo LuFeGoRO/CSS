@@ -18,6 +18,6 @@ body p{
     border: 2px solid black;
     color: blanchedalmond;
 }
-section > p{
+div > p{
     color: red;
 }
